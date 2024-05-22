@@ -4,7 +4,7 @@ from datetime import datetime
 from email.mime.text import MIMEText 
 import time
 
-
+#Add your SMTP email and password
 EMAIL_ADDRESS = ""
 EMAIL_PASSWORD = ""
 
